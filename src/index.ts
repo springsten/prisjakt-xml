@@ -1,9 +1,12 @@
-import dotenv from "dotenv";
+import { connection } from "./database/connection";
+import { xmlConverter } from "./xmlConverter";
 
-const getAllProducts = () => {};
+const getAllProducts = async () => {
+  const conn = await connection;
+  const [rows]: any = await conn.execute("SELECT * FROM products");
+  return rows;
+};
 
-console.log("HEJ!");
+let arr = await getAllProducts();
 
-// Hämta alla produkter från sql
-// skicka in till XML funcition
-// mappa igenom produkter -> lägger varje produkt i i XML modellen
+xmlConverter(arr);

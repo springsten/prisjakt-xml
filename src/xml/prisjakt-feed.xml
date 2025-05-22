@@ -1,0 +1,261 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+    <rss xmlns:pj="https://schema.prisjakt.nu/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="3.0">
+    <channel>
+    <title>Tand hygenist shoppen</title>
+    <description>Product feed from DB</description>
+
+    <item>
+      <g:id>1</g:id>
+      <g:title>Tandborste</g:title>
+      <g:price>22 SEK</g:price>
+      <g:stockLevel>12</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>2</g:id>
+      <g:title>Ultra Soft Bamboo Toothbrush</g:title>
+      <g:price>45 SEK</g:price>
+      <g:stockLevel>76</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>3</g:id>
+      <g:title>Charcoal Bristle Toothbrush</g:title>
+      <g:price>39 SEK</g:price>
+      <g:stockLevel>89</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>4</g:id>
+      <g:title>Travel Folding Toothbrush</g:title>
+      <g:price>29 SEK</g:price>
+      <g:stockLevel>120</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>5</g:id>
+      <g:title>Ergonomic Grip Toothbrush</g:title>
+      <g:price>35 SEK</g:price>
+      <g:stockLevel>95</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>6</g:id>
+      <g:title>Kids Animal-Shaped Toothbrush</g:title>
+      <g:price>25 SEK</g:price>
+      <g:stockLevel>110</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>7</g:id>
+      <g:title>Angled Bristle Toothbrush</g:title>
+      <g:price>42 SEK</g:price>
+      <g:stockLevel>82</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>8</g:id>
+      <g:title>Natural Wheat Straw Toothbrush</g:title>
+      <g:price>32 SEK</g:price>
+      <g:stockLevel>65</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>9</g:id>
+      <g:title>Silver Infused Antibacterial Toothbrush</g:title>
+      <g:price>49 SEK</g:price>
+      <g:stockLevel>58</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>10</g:id>
+      <g:title>Extra Soft Post-Surgery Toothbrush</g:title>
+      <g:price>38 SEK</g:price>
+      <g:stockLevel>45</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>11</g:id>
+      <g:title>3-Sided Manual Toothbrush</g:title>
+      <g:price>55 SEK</g:price>
+      <g:stockLevel>70</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>12</g:id>
+      <g:title>Sonic Pro Electric Toothbrush</g:title>
+      <g:price>599 SEK</g:price>
+      <g:stockLevel>50</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>13</g:id>
+      <g:title>Oscillating Electric Toothbrush</g:title>
+      <g:price>499 SEK</g:price>
+      <g:stockLevel>65</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>14</g:id>
+      <g:title>Kids Musical Electric Toothbrush</g:title>
+      <g:price>249 SEK</g:price>
+      <g:stockLevel>80</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>15</g:id>
+      <g:title>Smart Bluetooth Electric Toothbrush</g:title>
+      <g:price>799 SEK</g:price>
+      <g:stockLevel>40</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>16</g:id>
+      <g:title>Travel Electric Toothbrush</g:title>
+      <g:price>349 SEK</g:price>
+      <g:stockLevel>75</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>17</g:id>
+      <g:title>Ultra Thin Electric Toothbrush</g:title>
+      <g:price>449 SEK</g:price>
+      <g:stockLevel>60</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>18</g:id>
+      <g:title>Sensitive Gums Electric Toothbrush</g:title>
+      <g:price>549 SEK</g:price>
+      <g:stockLevel>55</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>19</g:id>
+      <g:title>Whitening Electric Toothbrush</g:title>
+      <g:price>649 SEK</g:price>
+      <g:stockLevel>45</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>20</g:id>
+      <g:title>Budget Electric Toothbrush</g:title>
+      <g:price>199 SEK</g:price>
+      <g:stockLevel>100</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>21</g:id>
+      <g:title>Ultrasonic Electric Toothbrush Premium</g:title>
+      <g:price>899 SEK</g:price>
+      <g:stockLevel>35</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>22</g:id>
+      <g:title>Mint Waxed Dental Floss</g:title>
+      <g:price>29 SEK</g:price>
+      <g:stockLevel>120</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>23</g:id>
+      <g:title>Expanding Charcoal Dental Floss</g:title>
+      <g:price>35 SEK</g:price>
+      <g:stockLevel>85</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>24</g:id>
+      <g:title>Biodegradable Bamboo Fiber Floss</g:title>
+      <g:price>42 SEK</g:price>
+      <g:stockLevel>70</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>25</g:id>
+      <g:title>Professional Dental Tape</g:title>
+      <g:price>32 SEK</g:price>
+      <g:stockLevel>90</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>26</g:id>
+      <g:title>Floss Picks with Fluoride</g:title>
+      <g:price>45 SEK</g:price>
+      <g:stockLevel>150</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>27</g:id>
+      <g:title>Water Flosser Professional</g:title>
+      <g:price>599 SEK</g:price>
+      <g:stockLevel>40</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>28</g:id>
+      <g:title>Portable Cordless Water Flosser</g:title>
+      <g:price>399 SEK</g:price>
+      <g:stockLevel>65</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>29</g:id>
+      <g:title>Cinnamon Unwaxed Natural Floss</g:title>
+      <g:price>38 SEK</g:price>
+      <g:stockLevel>75</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>30</g:id>
+      <g:title>Children's Fruit-Flavored Floss</g:title>
+      <g:price>35 SEK</g:price>
+      <g:stockLevel>95</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>31</g:id>
+      <g:title>Interdental Brush Set</g:title>
+      <g:price>49 SEK</g:price>
+      <g:stockLevel>85</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>32</g:id>
+      <g:title>Whitening Fluoride Toothpaste</g:title>
+      <g:price>45 SEK</g:price>
+      <g:stockLevel>120</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>33</g:id>
+      <g:title>Natural Activated Charcoal Toothpaste</g:title>
+      <g:price>59 SEK</g:price>
+      <g:stockLevel>85</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>34</g:id>
+      <g:title>Sensitive Teeth Relief Toothpaste</g:title>
+      <g:price>52 SEK</g:price>
+      <g:stockLevel>95</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>35</g:id>
+      <g:title>Gum Health Therapeutic Toothpaste</g:title>
+      <g:price>49 SEK</g:price>
+      <g:stockLevel>80</g:stockLevel>
+    </item>
+    
+    <item>
+      <g:id>36</g:id>
+      <g:title>Kids Strawberry Fluoride Toothpaste</g:title>
+      <g:price>35 SEK</g:price>
+      <g:stockLevel>110</g:stockLevel>
+    </item>
+    
+  </channel>
+</rss>
